@@ -98,7 +98,7 @@ python expense_tracker.py
 
 ## Author
 
-**Deema Afsal**
+**Deema Mymoona**
 
 GitHub: https://github.com/deemamymoona
 
